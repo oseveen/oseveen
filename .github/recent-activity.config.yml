@@ -1,0 +1,8 @@
+Settings:
+  commit_msg: 'Update recent README activity'
+  max_lines: 7
+  commit_name: 'recentActivity-bot'
+  date:
+    timezone: 'America/Sao_Paulo'
+    format: 'dddd, D MMMM YYYY, HH:mm:ss'
+  line_prefix: '` {num} `'
