@@ -1,21 +1,38 @@
 name: Snake Game Grap
+
 on:
   schedule:
-    # Runs every hour
+    # Runs every 24 hours
     - cron: "0 */24 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  genarate_snake:
+  generate_snake:
     name: 'Generate snake game'
     runs-on: 'ubuntu-latest'
     timeout-minutes: 5
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      # Generates a snake game from a GitHub user (<github_user_name>) contributions graph, output a SVG animation at <svg_out_path>
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk@v3
         with:
+          # GitHub user name to read the contribution graph from (**required**)
+          # using action context var `github.repository_owner` or specified user
           github_user_name: ${{ github.repository_owner }}
+
+          # List of files to generate.
+          # One file per line. Each output can be customized with options as query string.
+          #
+          # Supported options:
+          #  - palette:     A preset of color, one of [github, github-dark, github-light]
+          #  - color_snake: Color of the snake
+          #  - color_dots:  Comma separated list of dots colors.
+          #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+          #                 Exactly 5 colors are expected.
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
