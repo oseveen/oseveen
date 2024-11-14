@@ -1,3 +1,5 @@
+<!--<a href="https://discord.com/users/1244400983962816622"><img align="right" src="https://lanyard.cnrad.dev/api/1244400983962816622?theme=&idleMessage=&showDisplayName=true&hideDecoration=false&hideStatus=true&bg=" /></a>-->
+
 <h1><img src="https://cdn.imgchest.com/files/w7pjcjexoe7.png" width="30"/> Hey! Nice to see you.</h1>
 
 <p>
@@ -17,13 +19,8 @@ Currently living in <img src="https://cdn.imgchest.com/files/84jdcpdw3r4.png" wi
  <img alt="Github" src="https://img.shields.io/badge/-Github-2b3137?style=flat-square&logo=github&logoColor=white" />
 </p>
 
+<h3> My recent AniList activity</h3>
 
-<h3>My recent activies</h3>
+<!-- ANILIST_ACTIVITY:start -->
 
-<!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [oseveen/colorfy](https://github.com/oseveen/colorfy)<br>
-2. ⬆️ Pushed 1 commit(s) to [oseveen/oseveen](https://github.com/oseveen/oseveen)<br>
-3. 📔 Created new repository [oseveen/colorfy](https://github.com/oseveen/colorfy)<br>
-4. ⬆️ Pushed 1 commit(s) to [oseveen/oseveen](https://github.com/oseveen/oseveen)<br>
-5. 🔱 Forked [oseveen/guilyx](https://github.com/oseveen/guilyx) from [guilyx/guilyx](https://github.com/guilyx/guilyx)<br>
-<!--RECENT_ACTIVITY:end-->
+<!-- ANILIST_ACTIVITY:end -->
