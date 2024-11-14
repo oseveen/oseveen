@@ -1,4 +1,4 @@
-name: AniList readme workflow
+name: Snake Game Grap
 on:
   schedule:
     # Runs every hour
