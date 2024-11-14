@@ -2,7 +2,7 @@
 
 <p>
 Welcome to my profile!</br>
-I'm <b>Daniel de Sousa</b> (or seveen), a beginning programmer, exploring with enthusiasm the vast and exciting universe of programming.</br>
+I'm <b>Daniel de Sousa</b>, a beginning programmer, exploring with enthusiasm the vast and exciting universe of programming.</br>
 Currently living in <img src="https://cdn.imgchest.com/files/84jdcpdw3r4.png" width="17"/> <b>Minas Gerais, Brazil</b>.
 </p>
 
