@@ -41,3 +41,5 @@ Currently living in <img src="https://cdn.imgchest.com/files/84jdcpdw3r4.png" wi
   -  🔱 Forked [oseveen/guilyx](https://github.com/oseveen/guilyx) from [guilyx/guilyx](https://github.com/guilyx/guilyx)<br>
   <!--RECENT_ACTIVITY:end-->
 </details>
+
+<img align="center" src="https://github.com/oseveen/oseveen/blob/snake/ocean.svg" />
