@@ -14,9 +14,8 @@ jobs:
     name: Update this repo's README with latest AniList activites
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v2
       - name: AniList readme workflow
         uses: pxseu/anilist-readme@senpai # latest version
         with:
-          user_id: 7028842 # or
-          user_name: oseveen
+          user_id: 7028842
