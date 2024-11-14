@@ -1,5 +1,3 @@
-<!--<a href="https://discord.com/users/1244400983962816622"><img align="right" src="https://lanyard.cnrad.dev/api/1244400983962816622?theme=&idleMessage=&showDisplayName=true&hideDecoration=false&hideStatus=true&bg=" /></a>-->
-
 <h1><img src="https://cdn.imgchest.com/files/w7pjcjexoe7.png" width="30"/> Hey! Nice to see you.</h1>
 
 <p>
@@ -8,7 +6,7 @@ I'm <b>Daniel de Sousa</b> (or seveen), a beginning programmer, exploring with e
 Currently living in <img src="https://cdn.imgchest.com/files/84jdcpdw3r4.png" width="17"/> <b>Minas Gerais, Brazil</b>.
 </p>
 
-<h3>Things I code with</h3>
+<h3>☕ Things I code with</h3>
 <p>
  <img alt="Javascript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" />
  <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -19,7 +17,7 @@ Currently living in <img src="https://cdn.imgchest.com/files/84jdcpdw3r4.png" wi
  <img alt="Github" src="https://img.shields.io/badge/-Github-2b3137?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-<h3> My recent AniList activity</h3>
+<h3>🌸 Anilist Tracker</h3>
 
 <!-- ANILIST_ACTIVITY:start -->
 
@@ -27,3 +25,7 @@ Currently living in <img src="https://cdn.imgchest.com/files/84jdcpdw3r4.png" wi
 -   📺 Completed [Horimiya](https://anilist.co/anime/124080) (12:05 14 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
+
+<h3>📦 Github Tracker</h3>
+
+<!--RECENT_ACTIVITY:start-->
