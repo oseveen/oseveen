@@ -1,0 +1,21 @@
+name: My recent activities
+
+on:
+  schedule:
+    - cron: '* */5 * * *'
+  workflow_dispatch:
+
+# Permission to read and write files in the repository
+permissions:
+  contents: write 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update Profile README
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Readme-Workflows/recent-activity@v2.4.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
