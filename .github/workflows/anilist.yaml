@@ -4,10 +4,10 @@ on:
     # Runs every hour
     - cron: "0 * * * *"
   workflow_dispatch:
-    inputs:
-      trigger:
-        description: "Manually execute workflow"
-        required: false
+
+# Permission to read and write files in the repository
+permissions:
+  contents: write
 
 jobs:
   update-readme-with-anilist:
