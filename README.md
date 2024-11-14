@@ -34,11 +34,11 @@ Currently living in <img src="https://cdn.imgchest.com/files/84jdcpdw3r4.png" wi
   <summary><h3>📦 Github Tracker</h3></summary>
  
   <!--RECENT_ACTIVITY:start-->
-  -  📔 Created new repository [oseveen/colorfy](https://github.com/oseveen/colorfy)<br>
-  -  ⬆️ Pushed 1 commit(s) to [oseveen/oseveen](https://github.com/oseveen/oseveen)<br>
-  -  📔 Created new repository [oseveen/colorfy](https://github.com/oseveen/colorfy)<br>
-  -  ⬆️ Pushed 1 commit(s) to [oseveen/oseveen](https://github.com/oseveen/oseveen)<br>
-  -  🔱 Forked [oseveen/guilyx](https://github.com/oseveen/guilyx) from [guilyx/guilyx](https://github.com/guilyx/guilyx)<br>
+-  ⬆️ Pushed 1 commit(s) to [oseveen/oseveen](https://github.com/oseveen/oseveen)<br>
+-  ⬆️ Pushed 1 commit(s) to [oseveen/oseveen](https://github.com/oseveen/oseveen)<br>
+-  ⬆️ Pushed 1 commit(s) to [oseveen/oseveen](https://github.com/oseveen/oseveen)<br>
+-  ⬆️ Pushed 1 commit(s) to [oseveen/oseveen](https://github.com/oseveen/oseveen)<br>
+-  ⬆️ Pushed 1 commit(s) to [oseveen/oseveen](https://github.com/oseveen/oseveen)<br>
   <!--RECENT_ACTIVITY:end-->
 </details>
 
