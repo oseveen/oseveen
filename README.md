@@ -17,23 +17,27 @@ Currently living in <img src="https://cdn.imgchest.com/files/84jdcpdw3r4.png" wi
  <img alt="Github" src="https://img.shields.io/badge/-Github-2b3137?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-<h3>🌸 Anilist Tracker</h3>
+<details>
+  <summary><h3>🌸 Anilist Tracker</h3></summary>
 
-<!-- ANILIST_ACTIVITY:start -->
+  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed [Classroom of the Elite](https://anilist.co/anime/98659) (13:00 14 November 2024)
--   📺 Plans to watch [Classroom of the Elite](https://anilist.co/anime/98659) (12:55 14 November 2024)
--   📺 Completed [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (12:06 14 November 2024)
--   📺 Completed [Horimiya](https://anilist.co/anime/124080) (12:05 14 November 2024)
+  -   📺 Completed [Classroom of the Elite](https://anilist.co/anime/98659) (13:00 14 November 2024)
+  -   📺 Plans to watch [Classroom of the Elite](https://anilist.co/anime/98659) (12:55 14 November 2024)
+  -   📺 Completed [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (12:06 14 November 2024)
+  -   📺 Completed [Horimiya](https://anilist.co/anime/124080) (12:05 14 November 2024)
+  
+  <!-- ANILIST_ACTIVITY:end -->
+</details>
 
-<!-- ANILIST_ACTIVITY:end -->
-
-<h3>📦 Github Tracker</h3>
-
-<!--RECENT_ACTIVITY:start-->
--  📔 Created new repository [oseveen/colorfy](https://github.com/oseveen/colorfy)<br>
--  ⬆️ Pushed 1 commit(s) to [oseveen/oseveen](https://github.com/oseveen/oseveen)<br>
--  📔 Created new repository [oseveen/colorfy](https://github.com/oseveen/colorfy)<br>
--  ⬆️ Pushed 1 commit(s) to [oseveen/oseveen](https://github.com/oseveen/oseveen)<br>
--  🔱 Forked [oseveen/guilyx](https://github.com/oseveen/guilyx) from [guilyx/guilyx](https://github.com/guilyx/guilyx)<br>
-<!--RECENT_ACTIVITY:end-->
+<details>
+  <summary><h3>📦 Github Tracker</h3></summary>
+ 
+  <!--RECENT_ACTIVITY:start-->
+  -  📔 Created new repository [oseveen/colorfy](https://github.com/oseveen/colorfy)<br>
+  -  ⬆️ Pushed 1 commit(s) to [oseveen/oseveen](https://github.com/oseveen/oseveen)<br>
+  -  📔 Created new repository [oseveen/colorfy](https://github.com/oseveen/colorfy)<br>
+  -  ⬆️ Pushed 1 commit(s) to [oseveen/oseveen](https://github.com/oseveen/oseveen)<br>
+  -  🔱 Forked [oseveen/guilyx](https://github.com/oseveen/guilyx) from [guilyx/guilyx](https://github.com/guilyx/guilyx)<br>
+  <!--RECENT_ACTIVITY:end-->
+</details>
