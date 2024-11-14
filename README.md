@@ -23,4 +23,7 @@ Currently living in <img src="https://cdn.imgchest.com/files/84jdcpdw3r4.png" wi
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (12:06 14 November 2024)
+-   📺 Completed [Horimiya](https://anilist.co/anime/124080) (12:05 14 November 2024)
+
 <!-- ANILIST_ACTIVITY:end -->
