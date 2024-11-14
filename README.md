@@ -20,6 +20,7 @@ Currently living in <img src="https://cdn.imgchest.com/files/84jdcpdw3r4.png" wi
 
 <h3>My recent activies</h3>
 
+<!--RECENT_ACTIVITY:last_update-->
 <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [oseveen/colorfy](https://github.com/oseveen/colorfy)<br>
 2. ⬆️ Pushed 1 commit(s) to [oseveen/oseveen](https://github.com/oseveen/oseveen)<br>
