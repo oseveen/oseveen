@@ -40,8 +40,8 @@ Disabled
 <!--- quote@start --->
 
 ```
-"The opportunity of defeating the enemy is provided by the enemy himself."
-- Sun Tzu
+"You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously."
+- Steve Maraboli
 ```
 
 <!--- quote@end --->
