@@ -38,3 +38,10 @@ Disabled
 <h3>📖 Every day a random quote</h3>
 
 <!--- quote@start --->
+
+```
+"The opportunity of defeating the enemy is provided by the enemy himself."
+- Sun Tzu
+```
+
+<!--- quote@end --->
