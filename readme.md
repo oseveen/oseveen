@@ -40,8 +40,8 @@ Disabled
 <!--- quote@start --->
 
 ```
-"You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously."
-- Steve Maraboli
+"Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases."
+- Sathya Sai Baba
 ```
 
 <!--- quote@end --->
