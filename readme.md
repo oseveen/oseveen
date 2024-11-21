@@ -40,8 +40,8 @@ Disabled
 <!--- quote@start --->
 
 ```
-"Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases."
-- Sathya Sai Baba
+"Life can be the scariest and most beautiful thing simultaneously."
+- Maxime Lagace
 ```
 
 <!--- quote@end --->
