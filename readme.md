@@ -40,8 +40,8 @@ Disabled
 <!--- quote@start --->
 
 ```
-"Life can be the scariest and most beautiful thing simultaneously."
-- Maxime Lagace
+"Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is."
+- Nicolas Chamfort
 ```
 
 <!--- quote@end --->
