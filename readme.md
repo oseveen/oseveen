@@ -40,8 +40,8 @@ Disabled
 <!--- quote@start --->
 
 ```
-"Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is."
-- Nicolas Chamfort
+"People are doing the best that they can from their own level of consciousness."
+- Deepak Chopra
 ```
 
 <!--- quote@end --->
