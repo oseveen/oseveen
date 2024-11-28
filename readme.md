@@ -8,7 +8,6 @@
 <img align="right" src="https://tinyurl.com/seveenspot" />
 
 <p align="left">
-    <span><strong>Welcome to my profile</strong></span></br>
     <span>Hi, I'm Daniel, a beginner developer currently living in <img src="./assets/brazil-.png" width="18" /> <strong>Minas Gerais, Brazil.</strong></span></br>
     <span>I'm <strong>19 years old</strong> and I'm a ☕ coffee lover.</span>
 </p>
@@ -32,7 +31,7 @@
 <h3>🎑 My anilist activities</h3>
 
 <!--- anilist@start --->
-<img src="https://img.anili.st/user/7028842" />
+<img src="https://img.anili.st/user/7028842" width="75%" />
 
 <!--- Fun facts --->
 
