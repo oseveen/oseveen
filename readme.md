@@ -40,8 +40,8 @@ Disabled
 <!--- quote@start --->
 
 ```
-"People are doing the best that they can from their own level of consciousness."
-- Deepak Chopra
+"One small positive thought can change your whole day."
+- Zig Ziglar
 ```
 
 <!--- quote@end --->
