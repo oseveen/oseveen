@@ -1,6 +1,6 @@
-<!--- Header readme --->
-
-<h1><img src="./assets/meow_coffe.png" width="30" /> Hey, Nice to see you.</h1>
+<p align="center">
+<img src="https://cdn.imgchest.com/files/k46acmpken7.png" />
+</p>
 
 <img align="right" src="https://tinyurl.com/seveenspot" />
 
