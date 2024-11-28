@@ -31,7 +31,9 @@
 <h3>🎑 My anilist activities</h3>
 
 <!--- anilist@start --->
-<img src="https://img.anili.st/user/7028842" width="75%" />
+<a href="https://anilist.co/user/seveenxs">
+  <img src="https://img.anili.st/user/7028842" width="75%" />
+</a>
 
 <!--- Fun facts --->
 
