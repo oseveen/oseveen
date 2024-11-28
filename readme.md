@@ -1,5 +1,8 @@
 <p align="center">
-<img src="https://cdn.imgchest.com/files/k46acmpken7.png" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/WhiteLogo.svg">
+  <img src="./assets/BlackLogo.svg" width="70%" alt="LOGO">
+</picture>
 </p>
 
 <img align="right" src="https://tinyurl.com/seveenspot" />
