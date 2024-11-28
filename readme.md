@@ -32,9 +32,7 @@
 <h3>🎑 My anilist activities</h3>
 
 <!--- anilist@start --->
-```yaml
-Disabled
-``` 
+<img src="https://img.anili.st/user/7028842" />
 
 <!--- Fun facts --->
 
