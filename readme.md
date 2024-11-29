@@ -1,18 +1,17 @@
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/WhiteLogo.svg">
-  <img src="./assets/BlackLogo.svg" width="70%" alt="LOGO">
-</picture>
-</p>
+<table width="100%" height="100%">
+<tr width="60%" height="100%">
 
-<img align="right" src="https://tinyurl.com/seveenspot" />
+<td width="40%" height="100%">
+<p align="center"><img align="center" width="79%" height="100%" 
+src="https://cdn.imgchest.com/files/j7kzcmkld27.png" alt="Embedded GIF"></p>
+</td>
 
-<p align="left">
+<td>
+<p>
+    <span><strong>Welcome to my profile</strong></span></br>
     <span>Hi, I'm Daniel, a beginner developer currently living in <img src="./assets/brazil-.png" width="18" /> <strong>Minas Gerais, Brazil.</strong></span></br>
     <span>I'm <strong>19 years old</strong> and I'm a ☕ coffee lover.</span>
 </p>
-
-<!--- Code things --->
 
 <h3>☕ I'm code things with</h3>
 
@@ -26,14 +25,15 @@
  <img alt="Github" src="https://img.shields.io/badge/-Github-2b3137?style=flat-square&logo=github&logoColor=white" />
 </p>
 
+
 <!--- Anilist activities --->
 
 <h3>🎑 My anilist activities</h3>
 
 <!--- anilist@start --->
-<a href="https://anilist.co/user/seveenxs">
-  <img src="https://img.anili.st/user/7028842" width="75%" />
-</a>
+```yaml
+Disabled
+``` 
 
 <!--- Fun facts --->
 
@@ -42,8 +42,11 @@
 <!--- quote@start --->
 
 ```
-"Even though you are on the right track - you will get run over if you just sit there."
-- Will Rogers
+"One small positive thought can change your whole day."
+- Zig Ziglar
 ```
 
 <!--- quote@end --->
+</td>
+</tr>
+</table>
