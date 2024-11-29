@@ -9,7 +9,7 @@ src="https://cdn.imgchest.com/files/j7kzcmkld27.png" alt="Embedded GIF"></p>
 <td>
 <p>
     <span><strong>Welcome to my profile</strong></span></br>
-    <span>Hi, I'm Daniel, a beginner developer currently living in <img src="./assets/brazil-.png" width="18" /> <strong>Minas Gerais, Brazil.</strong></span></br>
+    <span>Hi, I'm Daniel, a beginner developer currently living in <img src="./assets/brazil-.png" width="18" /> <strong>Minas Gerais, Brazil.</strong></span>
     <span>I'm <strong>19 years old</strong> and I'm a ☕ coffee lover.</span>
 </p>
 
