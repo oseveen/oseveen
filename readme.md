@@ -1,7 +1,7 @@
 <table width="100%" height="100%">
 <tr width="60%" height="100%">
 
-<td width="100%" height="100%">
+<td width="40%" height="100%">
 <p align="center"><img align="center" width="100%" height="100%" 
 src="https://cdn.imgchest.com/files/j7kzcmkld27.png" alt="Embedded GIF"></p>
 </td>
