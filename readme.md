@@ -42,8 +42,8 @@ Disabled
 <!--- quote@start --->
 
 ```
-"One small positive thought can change your whole day."
-- Zig Ziglar
+"Happiness is pretty simple: someone to love, something to do, something to look forward to."
+- Rita Mae Brown
 ```
 
 <!--- quote@end --->
