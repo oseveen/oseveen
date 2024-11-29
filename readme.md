@@ -2,7 +2,7 @@
 <tr width="60%" height="100%">
 
 <td width="40%" height="100%">
-<p align="center"><img align="center" width="79%" height="100%" 
+<p align="center"><img align="center" width="90%" height="100%" 
 src="https://cdn.imgchest.com/files/j7kzcmkld27.png" alt="Embedded GIF"></p>
 </td>
 
