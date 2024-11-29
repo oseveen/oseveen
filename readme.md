@@ -42,8 +42,8 @@ Disabled
 <!--- quote@start --->
 
 ```
-"Happiness is pretty simple: someone to love, something to do, something to look forward to."
-- Rita Mae Brown
+"The greatest doer must also be a great dreamer."
+- Theodore Roosevelt
 ```
 
 <!--- quote@end --->
