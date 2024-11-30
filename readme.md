@@ -42,8 +42,8 @@ Disabled
 <!--- quote@start --->
 
 ```
-"The greatest doer must also be a great dreamer."
-- Theodore Roosevelt
+"Do not take life too seriously. You will never get out of it alive."
+- Elbert Hubbard
 ```
 
 <!--- quote@end --->
