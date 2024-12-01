@@ -42,8 +42,8 @@ Disabled
 <!--- quote@start --->
 
 ```
-"Do not take life too seriously. You will never get out of it alive."
-- Elbert Hubbard
+"When you repeat a mistake, it is not a mistake anymore: it is a decision."
+- Paulo Coelho
 ```
 
 <!--- quote@end --->
