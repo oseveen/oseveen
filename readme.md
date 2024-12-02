@@ -42,8 +42,8 @@ Disabled
 <!--- quote@start --->
 
 ```
-"When you repeat a mistake, it is not a mistake anymore: it is a decision."
-- Paulo Coelho
+"Every day is an opportunity to a make a new happy ending."
+- Jonathan Swift
 ```
 
 <!--- quote@end --->
