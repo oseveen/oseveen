@@ -42,8 +42,8 @@ Disabled
 <!--- quote@start --->
 
 ```
-"Every day is an opportunity to a make a new happy ending."
-- Jonathan Swift
+"We're kept from our goal not by obstacles, but by a clear path to a lesser goal."
+- Bhagavad Gita
 ```
 
 <!--- quote@end --->
