@@ -42,8 +42,8 @@ Disabled
 <!--- quote@start --->
 
 ```
-"We're kept from our goal not by obstacles, but by a clear path to a lesser goal."
-- Bhagavad Gita
+"When you have to make a choice and don't make it, that is in itself a choice."
+- William James
 ```
 
 <!--- quote@end --->
