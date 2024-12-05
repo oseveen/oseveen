@@ -42,8 +42,8 @@ Disabled
 <!--- quote@start --->
 
 ```
-"When you have to make a choice and don't make it, that is in itself a choice."
-- William James
+"Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more."
+- Tony Robbins
 ```
 
 <!--- quote@end --->
