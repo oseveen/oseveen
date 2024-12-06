@@ -42,8 +42,8 @@ Disabled
 <!--- quote@start --->
 
 ```
-"Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more."
-- Tony Robbins
+"It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future."
+- Nicolas Chamfort
 ```
 
 <!--- quote@end --->
