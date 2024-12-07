@@ -42,8 +42,8 @@ Disabled
 <!--- quote@start --->
 
 ```
-"It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future."
-- Nicolas Chamfort
+"Unless you're ashamed of yourself now and then, you're not honest."
+- William Faulkner
 ```
 
 <!--- quote@end --->
