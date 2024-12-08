@@ -42,8 +42,8 @@ Disabled
 <!--- quote@start --->
 
 ```
-"Unless you're ashamed of yourself now and then, you're not honest."
-- William Faulkner
+"Where there's life, there's hope."
+- Stephen Hawking
 ```
 
 <!--- quote@end --->
