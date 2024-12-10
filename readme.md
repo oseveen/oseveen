@@ -42,8 +42,8 @@ Disabled
 <!--- quote@start --->
 
 ```
-"Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found."
-- Alexander Pope
+"We love the things we love for what they are."
+- Robert Frost
 ```
 
 <!--- quote@end --->
