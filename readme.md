@@ -42,8 +42,8 @@ Disabled
 <!--- quote@start --->
 
 ```
-"We love the things we love for what they are."
-- Robert Frost
+"To know your Enemy, you must become your Enemy."
+- Sun Tzu
 ```
 
 <!--- quote@end --->
