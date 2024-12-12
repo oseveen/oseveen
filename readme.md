@@ -42,8 +42,8 @@ Disabled
 <!--- quote@start --->
 
 ```
-"To know your Enemy, you must become your Enemy."
-- Sun Tzu
+"She who loves roses must be patient and not cry out when she is pierced by thorns."
+- Kenji Miyazawa
 ```
 
 <!--- quote@end --->
