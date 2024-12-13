@@ -42,8 +42,8 @@ Disabled
 <!--- quote@start --->
 
 ```
-"She who loves roses must be patient and not cry out when she is pierced by thorns."
-- Kenji Miyazawa
+"Never say never, because limits, like fears, are often just an illusion."
+- Michael Jordan
 ```
 
 <!--- quote@end --->
