@@ -42,8 +42,8 @@ Disabled
 <!--- quote@start --->
 
 ```
-"Never say never, because limits, like fears, are often just an illusion."
-- Michael Jordan
+"Hardly anybody recognizes the most significant moments of their life at the time they happen."
+- W.P. Kinsella
 ```
 
 <!--- quote@end --->
