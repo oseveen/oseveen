@@ -42,8 +42,8 @@ Disabled
 <!--- quote@start --->
 
 ```
-"Hardly anybody recognizes the most significant moments of their life at the time they happen."
-- W.P. Kinsella
+"The heart wants what it wants - or else it does not care."
+- Emily Dickinson
 ```
 
 <!--- quote@end --->
