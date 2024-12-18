@@ -42,8 +42,8 @@ Disabled
 <!--- quote@start --->
 
 ```
-"The decisions of our past are the architects of our present."
-- Dan Brown
+"To forgive means pardoning the unpardonable."
+- Gilbert Chesterton
 ```
 
 <!--- quote@end --->
